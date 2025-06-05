@@ -1,4 +1,4 @@
-# Python Practice – Week 1 🚀
+# Python Practice 
 
 
 ✨ This repository showcases beginner-friendly Python problems solved as part of my weekly programming practice.
